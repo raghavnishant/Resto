@@ -15,4 +15,6 @@ run 'npm install'
 
 run 'npm start'
 
+// apps contains bugs please wait for update
+
 
